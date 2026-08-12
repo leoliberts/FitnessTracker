@@ -10,7 +10,7 @@ export default function Index() {
       }}
     >
       <Text>Edit app/index.tsx to edit this screen.</Text>
-      <Text>hallo</Text>
+      <Text>Tagad jauztaisa kkāds veids kā ievadīt datus cik tu sver un parādīt grafiku</Text>
     </View>
   );
 }
